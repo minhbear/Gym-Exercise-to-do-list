@@ -6,9 +6,12 @@ In backend I use mongooDB to save information of user, in here I build to schema
 
 In frontend I use react js is library to build the client site. With reducer and context hook I can implement the logic and pass all data to each component child and use react router dom to create the route for each page of client page. 
 
-Install dependency project: go to backend and frontend folder and type: npm i || npm install
+Install dependency project: go to backend and frontend folder and type 
+
+    npm i || npm install
 
 Run app: 
+    
     cd backend: npm start
     
     cd frontend: npm start 
